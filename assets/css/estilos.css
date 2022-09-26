@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("./assets/img/bg-hero.jpg");
+  background-image: url("/assets/img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -37,8 +37,5 @@ body {
   }
 
 }
-<<<<<<< HEAD
 
-g
-=======
->>>>>>> acc8a51c0e9f19efa2cd3d5cd7bc497f3e413a18
+<<<<<<< HEAD g=======>>>>>>>acc8a51c0e9f19efa2cd3d5cd7bc497f3e413a18
